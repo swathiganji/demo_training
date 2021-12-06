@@ -1,2 +1,2 @@
 # demo_training
-Demo for training purpose
+This is for demonstration
